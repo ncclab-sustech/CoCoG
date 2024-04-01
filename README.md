@@ -2,8 +2,11 @@
 
 ## Get started
 You can then set up a conda environment with all dependencies like so:
+
+```
 conda env create -f cocog.yml
 conda activate cocog
+```
 
 ## File structure
 The code is organized as follows:
